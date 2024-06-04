@@ -34,7 +34,7 @@
 
 ## Step-05: Create NAT Gateway
 - **Name:** my-nat-gateway
-- **Subnet:** my-public-subnet-1
+- **Subnet:** my-public-subnet-1 #allawys created in bublic subnet
 - **Allocate Elastic Ip:** click on that
 - Click on **Create NAT Gateway**
 
